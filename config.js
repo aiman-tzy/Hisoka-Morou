@@ -45,16 +45,16 @@ export default {
    options: {
       public: true,
       URI: "database.json", // use mongo or file json
-      owner: ["6288292024190", "62858156631709"],
+      owner: ["60102810046", "0"],
       pathCommand: 'commands'
    },
 
    Exif: {
-      packId: "https://instagram.com/cak_haho",
+      packId: "https://instagram.com/aiman1_23",
       packName: `Sticker ini Dibuat Oleh :`,
-      packPublish: "Dika Ardnt.",
-      packEmail: "dika.ardianta7@yahoo.com",
-      packWebsite: "https://instgaram.com/cak_haho",
+      packPublish: "Bot.",
+      packEmail: "aimanmk89@gmail.com",
+      packWebsite: "https://instgaram.com/aiman1_23",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
       iOSApp: "https://apps.apple.com/id/app/muslim-pro-al-quran-adzan/id388389451?|=id",
       categories: ['😹', '😎', '😱'],
